@@ -1,6 +1,6 @@
 ---
 name: useeffect-audit
-description: Audit and refactor React Effects using official React guidance: keep Effects for external synchronization, separate events from Effects, model each Effect as an independent start/stop process, fix dependency issues by changing code (not suppressing lint rules), and use useEffectEvent only for truly non-reactive Effect logic.
+description: "Audit and refactor React Effects using official React guidance: keep Effects for external synchronization, separate events from Effects, model each Effect as an independent start/stop process, fix dependency issues by changing code (not suppressing lint rules), and use useEffectEvent only for truly non-reactive Effect logic."
 ---
 
 # useEffect Audit
